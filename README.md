@@ -18,4 +18,4 @@ Here are some ideas to get you started:
        alt="Cover" width="30%" ><BR>
 
 <img src="https://octodex.github.com/images/labtocat.png"
-       alt="Cover" width="30%" ><BR>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tana0101&theme=radical&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)  
+       alt="Cover" width="20%" ><BR>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tana0101&theme=radical&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)  
