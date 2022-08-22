@@ -1,5 +1,3 @@
-# test
-
 <p align="right"> <a href="https://www.facebook.com/profile.php?id=100003854942944" target="_blank" rel="noreferrer"><img src="https://github.com/tana0101/tana0101/blob/main/FB.png?raw=true" alt="c" width="40" height="40"/> </a>
 <a href="https://www.instagram.com/prinz_eugen01/" target="_blank" rel="noreferrer"><img src="https://github.com/tana0101/tana0101/blob/main/IG.png?raw=true" alt="c" width="40" height="40"/> </a> 
 <a href="https://hackmd.io/@0c5ZiKjZR66nH91RjZcFfw" target="_blank" rel="noreferrer"><img src="https://github.com/tana0101/tana0101/blob/main/MD.png?raw=true" alt="c" width="40" height="40"/> </a>
@@ -20,10 +18,10 @@
 <br>
 
 [<img src="https://octodex.github.com/images/inspectocat.jpg"
-       alt="Cover" width="25%" align='left'>](https://octodex.github.com/)<img src="https://github-readme-stats.vercel.app/api?username=tana0101&show_icons=true&theme=radical"
+       alt="Cover" width="180" align='left'>](https://octodex.github.com/)<img src="https://github-readme-stats.vercel.app/api?username=tana0101&show_icons=true&theme=radical"
        alt="Cover" width=600> 
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tana0101&theme=radical&layout=compact&card_width=605)](https://github.com/anuraghazra/github-readme-stats)[<img src="https://octodex.github.com/images/labtocat.png"
-       alt="Cover" width="20%" align='right'>](https://octodex.github.com/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tana0101&theme=radical&layout=compact&card_width=580)](https://github.com/anuraghazra/github-readme-stats)[<img src="https://octodex.github.com/images/labtocat.png"
+       alt="Cover" width="145" align='right'>](https://octodex.github.com/)
