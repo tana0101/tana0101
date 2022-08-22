@@ -13,7 +13,7 @@
 <br>
 
 <img src="https://octodex.github.com/images/inspectocat.jpg"
-       alt="Cover" width="20%" align='left'>![tana's GitHub stats](https://github-readme-stats.vercel.app/api?username=tana0101&show_icons=true&theme=radical&width=600)
+       alt="Cover" width="20%" align='left'>![tana's GitHub stats](https://github-readme-stats.vercel.app/api?username=tana0101&show_icons=true&theme=radical)
 
 <br>
 
