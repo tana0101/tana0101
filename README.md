@@ -14,9 +14,9 @@
 
 <img src="https://octodex.github.com/images/inspectocat.jpg"
        alt="Cover" width="20%" align='left'><img src="https://github-readme-stats.vercel.app/api?username=tana0101&show_icons=true&theme=radical"
-       alt="Cover" width=630> 
+       alt="Cover" width=600> 
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tana0101&theme=radical&layout=compact&card_width=625)](https://github.com/anuraghazra/github-readme-stats)<img src="https://octodex.github.com/images/labtocat.png"
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tana0101&theme=radical&layout=compact&card_width=600)](https://github.com/anuraghazra/github-readme-stats)<img src="https://octodex.github.com/images/labtocat.png"
        alt="Cover" width="20% align='right'" >
