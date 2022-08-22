@@ -18,8 +18,8 @@
 <br>
 
 [<img src="https://octodex.github.com/images/inspectocat.jpg"
-       alt="Cover" width="210" align='left' valign="center" >](https://octodex.github.com/)<img src="https://github-readme-stats.vercel.app/api?username=tana0101&show_icons=true&theme=radical"
-       alt="Cover" width=610> 
+       alt="Cover" width="215" align='left' valign="center" >](https://octodex.github.com/)<img src="https://github-readme-stats.vercel.app/api?username=tana0101&show_icons=true&theme=radical"
+       alt="Cover" width=605> 
 
 <br>
 
