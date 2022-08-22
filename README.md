@@ -25,4 +25,4 @@
 
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tana0101&theme=radical&layout=compact&card_width=540"
        align='left' width=635>](https://github.com/anuraghazra/github-readme-stats)[<img src="https://octodex.github.com/images/labtocat.png"
-       alt="Cover" width="170" >](https://octodex.github.com/)
+       alt="Cover" width="175" >](https://octodex.github.com/)
