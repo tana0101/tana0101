@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://octodex.github.com/images/inspectocat.jpg"
-       alt="Cover" width="20%" align='right'>![tana's GitHub stats](https://github-readme-stats.vercel.app/api?username=tana0101&show_icons=true&theme=radical)
+       alt="Cover" width="20%" align='left'>![tana's GitHub stats](https://github-readme-stats.vercel.app/api?username=tana0101&show_icons=true&theme=radical)
 
 <br>
 
