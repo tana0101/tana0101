@@ -19,4 +19,4 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tana0101&theme=radical&layout=compact&card_width=600)](https://github.com/anuraghazra/github-readme-stats)<img src="https://octodex.github.com/images/labtocat.png"
-       alt="Cover" width="24% align='right'" >
+       alt="Cover" width="23% align='right'" >
