@@ -21,7 +21,7 @@
        alt="Cover" width="190" align='left'>](https://octodex.github.com/)<img src="https://github-readme-stats.vercel.app/api?username=tana0101&show_icons=true&theme=radical"
        alt="Cover" width=600 align='left'> 
 
-<br>
+<br><br>
 
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tana0101&theme=radical&layout=compact&card_width=600"
        align='left'>](https://github.com/anuraghazra/github-readme-stats)[<img src="https://octodex.github.com/images/labtocat.png"
