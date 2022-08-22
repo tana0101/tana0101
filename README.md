@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github.com/tana0101/tana0101/blob/main/text1.png?raw=true" align='center' >
-<img src="https://github.com/tana0101/tana0101/blob/main/text2.png?raw=true" align='center' width="80%">
+<img src="https://github.com/tana0101/tana0101/blob/main/text2.png?raw=true" align='center' width="60%">
 
 ---
 
