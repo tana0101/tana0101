@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 
 <img src="https://i.imgur.com/o9spgS1.png" align="center" width="40%">
 <img src="https://i.imgur.com/PEAG2MX.png" align="center" width="50%">
+<br>
  <p>
   <img width="400" align='center' src="https://i.imgur.com/o9spgS1.png">
 </p>
+<br>
 <br>
 
 <img src="https://octodex.github.com/images/inspectocat.jpg"
