@@ -23,7 +23,7 @@
        alt="Cover" width="25%" align='left'>](https://octodex.github.com/)<img src="https://github-readme-stats.vercel.app/api?username=tana0101&show_icons=true&theme=radical"
        alt="Cover" width=600> 
 
-<br><br>
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tana0101&theme=radical&layout=compact&card_width=580)](https://github.com/anuraghazra/github-readme-stats)[<img src="https://octodex.github.com/images/labtocat.png"
-       alt="Cover" width="23%" align='right'>](https://octodex.github.com/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tana0101&theme=radical&layout=compact&card_width=600)](https://github.com/anuraghazra/github-readme-stats)[<img src="https://octodex.github.com/images/labtocat.png"
+       alt="Cover" width="20%" align='right'>](https://octodex.github.com/)
