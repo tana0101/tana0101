@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://i.imgur.com/o9spgS1.png" align="center" width="400">
-<img src="https://i.imgur.com/PEAG2MX.png" align="center" width="50%">
+<img src="https://github.com/tana0101/tana0101/blob/main/text1.png?raw=true" align='center' >
+<img src="https://github.com/tana0101/tana0101/blob/main/text2.png?raw=true" align='center' width="80%">
+
 <br>
 
 <img src="https://octodex.github.com/images/inspectocat.jpg"
