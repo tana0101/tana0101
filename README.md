@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://octodex.github.com/images/inspectocat.jpg"
-       alt="Cover" width="30%" >![tana's GitHub stats](https://github-readme-stats.vercel.app/api?username=tana0101&show_icons=true&theme=radical)
+![tana's GitHub stats](https://github-readme-stats.vercel.app/api?username=tana0101&show_icons=true&theme=radical)<img src="https://octodex.github.com/images/inspectocat.jpg"
+       alt="Cover" width="20%" ><BR>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tana0101&theme=radical&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)<img src="https://octodex.github.com/images/labtocat.png"
-       alt="Cover" width="30%" >
+<img src="https://octodex.github.com/images/labtocat.png"
+       alt="Cover" width="20%" ><BR>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tana0101&theme=radical&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)  
