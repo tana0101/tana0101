@@ -5,8 +5,8 @@
  
  <br><br>
 
-[<img src="https://github.com/tana0101/tana0101/blob/main/text1.png?raw=true" align='center' width="100%">](https://www.fonttopng.com/english/beautiful-handwriting-fonts/index.php)
-[<img src="https://github.com/tana0101/tana0101/blob/main/text2.png?raw=true" align='center' width="100%">](https://www.fonttopng.com/english/beautiful-handwriting-fonts/index.php)
+[<img src="https://github.com/tana0101/tana0101/blob/main/text1.png?raw=true" align='center' >](https://www.fonttopng.com/english/beautiful-handwriting-fonts/index.php)
+[<img src="https://github.com/tana0101/tana0101/blob/main/text2.png?raw=true" align='center' >](https://www.fonttopng.com/english/beautiful-handwriting-fonts/index.php)
 
 <br>
 
@@ -19,10 +19,10 @@
 
 [<img src="https://octodex.github.com/images/inspectocat.jpg"
        alt="Cover" width="190" align='left'>](https://octodex.github.com/)<img src="https://github-readme-stats.vercel.app/api?username=tana0101&show_icons=true&theme=radical"
-       alt="Cover" width=600> 
+       alt="Cover" width=600 align='left'> 
 
 <br>
 
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tana0101&theme=radical&layout=compact&card_width=600"
        align='left'>](https://github.com/anuraghazra/github-readme-stats)[<img src="https://octodex.github.com/images/labtocat.png"
-       alt="Cover" width="155" align='left'>](https://octodex.github.com/)
+       alt="Cover" width="155" align='right'>](https://octodex.github.com/)
