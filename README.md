@@ -4,7 +4,9 @@
 <img src="https://github.com/tana0101/tana0101/blob/main/text2.png?raw=true" align='center' width="80%">
 
 <br>
----
+
+--
+
 <br>
 
 <img src="https://octodex.github.com/images/inspectocat.jpg"
