@@ -1,66 +1,370 @@
 <!DOCTYPE html>
-
 <html>
+<!-- 
+    Reference: 
+    https://codepen.io/knaman2609/pen/Zbyjvv
+    https://pixabay.com/illustrations/donald-trump-america-president-5103361/ 
+-->
 
 <head>
     <meta charset="utf-8">
-    <title>index</title>
+    <title>Resume</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            height: 100%;
+        }
+
+        body {
+            min-height: 100%;
+            background: #eee;
+            font-family: 'Lato', sans-serif;
+            font-weight: 400;
+            color: #222;
+            font-size: 14px;
+            line-height: 26px;
+            padding-bottom: 50px;
+        }
+
+        .container {
+            max-width: 700px;
+            background: #fff;
+            margin: 0px auto 0px;
+            box-shadow: 1px 1px 2px #DAD7D7;
+            border-radius: 3px;
+            padding: 40px;
+            margin-top: 50px;
+        }
+
+        .header {
+            margin-bottom: 30px;
+        }
+
+        .full-name {
+            font-size: 40px;
+            text-transform: uppercase;
+            margin-bottom: 5px;
+        }
+
+        .first-name {
+            font-weight: 700;
+        }
+
+        .last-name {
+            font-weight: 300;
+        }
+
+        .contact-info {
+            margin-bottom: 20px;
+        }
+
+        .email,
+        .phone {
+            color: #999;
+            font-weight: 300;
+        }
+
+        .separator {
+            height: 10px;
+            display: inline-block;
+            border-left: 2px solid #999;
+            margin: 0px 10px;
+        }
+
+        .position {
+            font-weight: bold;
+            display: inline-block;
+            margin-right: 10px;
+            text-decoration: underline;
+        }
+
+        .details {
+            line-height: 20px;
+        }
+
+        .section {
+            margin-bottom: 40px;
+        }
+
+        .section:last-of-type {
+            margin-bottom: 0px;
+        }
+
+        .section__title {
+            letter-spacing: 2px;
+            color: #54AFE4;
+            font-weight: bold;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+        }
+
+        .section__list-item {
+            margin-bottom: 40px;
+        }
+
+        .section__list-item:last-of-type {
+            margin-bottom: 0;
+        }
+
+        .left,
+        .right {
+            vertical-align: top;
+            display: inline-block;
+        }
+
+        .left {
+            width: 60%;
+        }
+
+        .right {
+            text-align: right;
+            width: 39%;
+        }
+
+        .name {
+            font-weight: bold;
+        }
+
+        a {
+            text-decoration: none;
+            color: #000;
+            font-style: italic;
+        }
+
+        a:hover {
+            text-decoration: underline;
+            color: #000;
+        }
+
+        .skills__item {
+            margin-bottom: 10px;
+        }
+
+        input {
+            display: none;
+        }
+
+        label {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            background: #C3DEF3;
+            border-radius: 20px;
+            margin-right: 3px;
+        }
+
+        input:checked+label {
+            background: #79A9CE;
+        }
+    </style>
 </head>
 
 <body>
-    <p align="left"> <a href="https://www.facebook.com/profile.php?id=100003854942944" target="_blank"
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,300,700' rel='stylesheet' type='text/css'>
+
+    <div class="container">
+        
+
+        <br><br>
+
+        <div><a href="https://www.fonttopng.com/english/beautiful-handwriting-fonts/index.php"><img
+                    src="https://github.com/tana0101/tana0101/blob/main/text1.png?raw=true" align='center'
+                    width="600"></a></div>
+        <div><a href="https://www.fonttopng.com/english/beautiful-handwriting-fonts/index.php"><img
+                    src="https://github.com/tana0101/tana0101/blob/main/text2.png?raw=true" align='center'
+                    width="600"></a></div>
+
+        <br><br>
+
+        <h3 align="left">Languages and Tools:</h3>
+        <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
+                    width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"
+                rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+                    alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank"
+                rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+                    alt="java" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank"
+                rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+                    alt="python" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank"
+                rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+                    alt="linux" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank"
+                rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"
+                    width="40" height="40" /> </a> </p>
+
+        <hr>
+
+        <br>
+
+        <a href="https://octodex.github.com/"><img src="https://octodex.github.com/images/inspectocat.jpg" alt="labtocat"
+                width="170" align='left' valign="center"><img
+                src="https://github-readme-stats.vercel.app/api?username=tana0101&show_icons=true&theme=radical"
+                alt="githubApi" width=405></a>
+
+        <br><br>
+
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=tana0101&theme=radical&layout=compact&card_width=450"
+                align='left' width=445></a><a href="https://octodex.github.com/"><img
+                src="https://octodex.github.com/images/labtocat.png" alt="labtocat" width="175" align='right'></a>
+        
+        
+        <br><br><br><br><br><br><br><br><br>
+
+        <div class="header">
+            <div class="full-name">
+                <span class="first-name">LIN</span>
+                <span class="last-name">YI</span>
+                <img
+                    src="https://github.com/tana0101/tana0101/blob/main/photo.png?raw=true"
+                    height="300" align='right'/>
+            </div>
+            <div class="contact-info">
+                <span class="email">Email: </span>
+                <span class="email-val">xenone0101@gmail.com</span>
+                <span class="separator"></span>
+                <span class="phone">Phone: </span>
+                <span class="phone-val">0971-329-517</span>
+                
+            </div>
+
+            <div class="about">
+                <span class="position">University student </span>
+                <span class="desc">
+                    I major Computer Science and Information Engineering at National Taiwan Ocean University, the most commonly used programming language is c++.
+                </span>
+            </div>
+        </div>
+
+        <br><br><br>
+
+        <p align="left"> <a href="https://www.facebook.com/profile.php?id=100003854942944" target="_blank"
             rel="noreferrer"><img src="https://github.com/tana0101/tana0101/blob/main/FB.png?raw=true" alt="c"
                 width="40" height="40" /> </a>
         <a href="https://www.instagram.com/prinz_eugen01/" target="_blank" rel="noreferrer"><img
-                src="https://github.com/tana0101/tana0101/blob/main/IG.png?raw=true" alt="c" width="40" height="40" />
+                src="https://github.com/tana0101/tana0101/blob/main/IG.png?raw=true" alt="c" width="40"
+                height="40" />
+        </a>
+        <a href="https://github.com/tana0101" target="_blank" rel="noreferrer"><img
+            src="https://github.com/tana0101/tana0101/blob/main/github_logo.png?raw=true" width="40"
+            height="40" />
         </a>
         <a href="https://hackmd.io/@tana0101" target="_blank" rel="noreferrer"><img
-                src="https://github.com/tana0101/tana0101/blob/main/MD.png?raw=true" alt="c" width="40" height="40" />
+                src="https://github.com/tana0101/tana0101/blob/main/MD.png?raw=true" alt="c" width="40"
+                height="40" />
         </a>
     </p>
-
+        
     <br><br>
-
-    <div><a href="https://www.fonttopng.com/english/beautiful-handwriting-fonts/index.php"><img src="https://github.com/tana0101/tana0101/blob/main/text1.png?raw=true"
-        align='center'></a></div>
-    <div><a href="https://www.fonttopng.com/english/beautiful-handwriting-fonts/index.php"><img src="https://github.com/tana0101/tana0101/blob/main/text2.png?raw=true"
-        align='center'></a></div>
-
-    <br>
-
-    <h3 align="left">Languages and Tools:</h3>
-    <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
-                width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-                alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-                width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                alt="python" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-                alt="linux" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank"
-            rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"
-                height="40" /> </a> </p>
     
-    <hr>
-    
-    <br>
+        <div class="details">
+            <div class="section">
+                <div class="section__title">Experience</div>
+                <div class="section__list">
+                    <div class="section__list-item">
+                        <div class="left">
+                            <img
+                    src="https://github.com/tana0101/tana0101/blob/main/pom_logo.png?raw=true"
+                    alt="logo" width="40" height="40"/>
+                            <div class="name">Programing</div>
+                            <div class="addr">Keelung, TW</div>
+                            <div class="duration">Jan 2021 - Aug 2022</div>
+                        </div>
+                        <div class="right">
+                            <br><br>
+                            <div class="name">Developer</div>
+                            <div class="desc">Reporting and Writing Plans</div>
+                        </div>
+                    </div>
+                    <div class="section__list-item">
+                        <div class="left">
+                            <div class="name">General Physics</div>
+                            <div class="addr">Keelung, TW</div>
+                            <div class="duration">Sep 2022 - Present</div>
+                        </div>
+                        <div class="right">
+                            <div class="name">Teaching Assistant</div>
+                            <div class="desc">Remedial Teaching</div>
+                        </div>
+                    </div>
 
-    <a href="https://octodex.github.com/"><img src="https://octodex.github.com/images/inspectocat.jpg" alt="Cover" width="215" align='left'
-        valign="center"><img
-        src="https://github-readme-stats.vercel.app/api?username=tana0101&show_icons=true&theme=radical" alt="Cover"
-        width=605></a>
+                </div>
+            </div>
+            <div class="section">
+                <div class="section__title">Education</div>
+                <div class="section__list">
+                    <div class="section__list-item">
+                        <div class="left">
+                            <div class="name">Taichung Municipal Dongshan Senior High School</div>
+                            <div class="addr">Taichung City, TW</div>
+                            <div class="duration">Aug 2012 - Sep 2018</div>
+                        </div>
+                        <div class="right">
+                            <div class="name">High school student</div>
+                            <div class="desc">General Subjects</div>
+                        </div>
+                    </div>
+                    <div class="section__list-item">
+                        <div class="left">
+                            <div class="name">National Taiwan Ocean University</div>
+                            <div class="addr">Keelung, TW</div>
+                            <div class="duration">Jan 2020 - Present</div>
+                        </div>
+                        <div class="right">
+                            <div class="name">University student</div>
+                            <div class="desc">CSIE</div>
+                        </div>
+                    </div>
 
-    <br>
+                </div>
 
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=tana0101&theme=radical&layout=compact&card_width=540"
-        align='left' width=645></a><a href="https://octodex.github.com/"><img
-        src="https://octodex.github.com/images/labtocat.png" alt="Cover" width="180"></a>
+            </div>
+            <div class="section">
+                <div class="section__title">Projects</div>
+                <div class="section__list">
+                    <div class="section__list-item">
+                        <img
+                    src="https://github.com/tana0101/Piano-Monster/blob/main/image/applicationIcon.png?raw=true"
+                    alt="logo" width="40" height="40"/>
+                        
+                        <div class="name">Piano-Monster<img
+                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+                            alt="java" width="40" height="40" align='right'/></div>
+                        <div class="text">Piano-Monster is computer keyboard piano simulation  and piano learning Software.</div>
+                    </div>
+                    <div class="section__list-item">
+                        <img
+                            src="https://github.com/tana0101/tana0101/blob/main/board.jpeg?raw=true"
+                            alt="logo" width="40" height="40"/>
+                        <div class="name">E-chessAI<img
+                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+                            alt="python" width="40" height="40" align='right'/></div>
+                        <div class="text">E-chessAI is a fully automatic AI for chess.</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="section">
+                <div class="section__title">
+                    Interests
+                </div>
+                <div class="section__list">
+                    <div class="section__list-item">
+                        Photography, Band, Chess.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
 </body>
 
 </html>
