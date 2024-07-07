@@ -17,13 +17,13 @@
 
 <br>
 
-[<img src="https://octodex.github.com/images/inspectocat.jpg"
+[<img src="https://github.com/tana0101/tana0101/blob/main/inspectocat.png?raw=true"
        alt="Cover" width="215" align='left' valign="center" >](https://octodex.github.com/)<img src="https://github-readme-stats.vercel.app/api?username=tana0101&show_icons=true&theme=radical"
        alt="Cover" width=605> 
 
 <br>
 
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tana0101&theme=radical&layout=compact&card_width=540"
-       align='left' width=645>](https://github.com/anuraghazra/github-readme-stats)[<img src="https://octodex.github.com/images/labtocat.png"
+       align='left' width=645>](https://github.com/anuraghazra/github-readme-stats)[<img src="https://github.com/tana0101/tana0101/blob/main/labtocat.png?raw=true"
        alt="Cover" width="180" >](https://octodex.github.com/)
 <!-- 解決過載問題：https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s --> 
